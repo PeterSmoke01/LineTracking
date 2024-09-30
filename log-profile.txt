@@ -1,0 +1,2 @@
+{"userId":"Uac3378d2cd3140743664fff4f504d459","displayName":"P\uD83D\uDD78\uD83D\uDD77","pictureUrl":"https://sprofile.line-scdn.net/0hDO6dXhsvG2AbHQj01hJlH2tNGAo4bEJyZH0GUShOR1R2Lwk1ZClUVS8URFcnK102YCsEASgUR1gXDmwGBUvnVBwtRlEnKVgyNXhSjw","language":"en"}
+{"userId":"Uefcd12ec640e0dc3dd30b7b7d964ed39","displayName":"Theerawut Aun","pictureUrl":"https://sprofile.line-scdn.net/0hKA6F1mzSFG4bPweWrDNqEWtvFwQ4Tk18MF4PWyhsGlslCwA8MlldD3trTw5xB1NrYg1fXC02Q1sXLGMIBWnoWhwPSV8nC1c8NVpdgQ","statusMessage":"❤ kipkea","language":"th"}
